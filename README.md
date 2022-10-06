@@ -26,6 +26,7 @@
 5°) Para levantar o servidor, digite o seguinte comando no terminal: nodemon server.js
 
 6°) Fazer as chamadas da api para as seguintes rotas:
+
 	get: http://localhost:3000/getMovies - para pegar a lista de filmes
 	
 	post: http://localhost:3000/createMovie com o body no formato a seguir:
