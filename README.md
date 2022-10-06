@@ -10,7 +10,7 @@
     port: 5432
     
 3°) Criar a seguinte tabela:
-`
+``
   create table Movies_VG (
 	id serial primary key,
 	name varchar not null,
@@ -19,7 +19,7 @@
 	director varchar NOT NULL,
 	genre varchar NOT NULL
   );
- 
+``
   
 4°) No terminal de comando digitar o seguinte comando: npm install
 
